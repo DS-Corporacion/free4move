@@ -448,6 +448,8 @@ a:hover {
   color: #2268b2;
 }
 
+
+
 header {
   padding-top: 40px;
   padding-bottom: 40px;
@@ -483,7 +485,6 @@ header h2 {
   width: 940px;
   margin: 0 auto;
 }
-
 #content-wrapper {
   padding-top: 30px;
   border-top: solid 1px #fff;
